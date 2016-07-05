@@ -1,0 +1,3 @@
+rootProject.name = 'nativeToastModule'
+
+include ':app'
